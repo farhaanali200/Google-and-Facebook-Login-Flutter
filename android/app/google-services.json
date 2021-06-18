@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "296449886451",
+    "project_id": "facebooklogin-a3124",
+    "storage_bucket": "facebooklogin-a3124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296449886451:android:47ee1f4056566899638f86",
+        "android_client_info": {
+          "package_name": "com.example.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296449886451-bpdtb73g0rht0gnu08c6pujutp2p854p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWpmgYuYVIbA7xrasksrzSdJTiTb--N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296449886451-bpdtb73g0rht0gnu08c6pujutp2p854p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296449886451:android:5254bdd203a967c7638f86",
+        "android_client_info": {
+          "package_name": "com.example.googlefacebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296449886451-ovq7sqsin760mhe90ukel37b11ghqimg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlefacebooklogin",
+            "certificate_hash": "9b0c7712be2c33d429faa14bc7781b86de4b18a4"
+          }
+        },
+        {
+          "client_id": "296449886451-bpdtb73g0rht0gnu08c6pujutp2p854p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWpmgYuYVIbA7xrasksrzSdJTiTb--N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296449886451-bpdtb73g0rht0gnu08c6pujutp2p854p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
